@@ -1,5 +1,5 @@
 class AppTextStyle {
-  static const String fontFamily = 'Roboto';
+  static const String fontFamily = '';
 
   static const double fontSizeExtraSmall = 10.0;
   static const double fontSizeSmall = 12.0;
